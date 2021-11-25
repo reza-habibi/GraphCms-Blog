@@ -7,6 +7,7 @@ import {
   PostDetail,
   Comments,
   CommentsForm,
+  Loader
 } from "../../components/index";
 import { useRouter } from "next/dist/client/router";
 import { AdjacentPosts } from "../../section";
